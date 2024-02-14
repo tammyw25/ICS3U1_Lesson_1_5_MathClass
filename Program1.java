@@ -21,6 +21,6 @@ class Program1 extends ConsoleProgram {
     dblHypotenuse = Math.sqrt(Math.pow(dblSideA, 2) + Math.pow(dblSideB, 2));
     
     // Output results
-    System.out.println("The hypotenuse of this right-angle triangle is " + dblHypotenuse);
+    System.out.println("The hypotenuse of this right-angle triangle is" + dblHypotenuse);
   }
 }
